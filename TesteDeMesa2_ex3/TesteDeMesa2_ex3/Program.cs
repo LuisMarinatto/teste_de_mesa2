@@ -14,6 +14,7 @@ namespace Ex3
             double taxaJuros = double.Parse(Console.ReadLine());
 
             Renda = valorPresente * Math.Pow(1 + (taxaJuros / 100), (6));
+            Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine(Renda.ToString("c"));
         }
     }
