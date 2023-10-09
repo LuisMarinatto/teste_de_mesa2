@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\TesteDeMesaPt2\TesteDeMesa2_ex1\TesteDeMesa2_ex1\bin\Debug\net6.0\TesteDeMesa2_ex1.exe
+C:\Users\User\Desktop\TesteDeMesaPt2\TesteDeMesa2_ex1\TesteDeMesa2_ex1\bin\Debug\net6.0\TesteDeMesa2_ex1.deps.json
+C:\Users\User\Desktop\TesteDeMesaPt2\TesteDeMesa2_ex1\TesteDeMesa2_ex1\bin\Debug\net6.0\TesteDeMesa2_ex1.runtimeconfig.json
+C:\Users\User\Desktop\TesteDeMesaPt2\TesteDeMesa2_ex1\TesteDeMesa2_ex1\bin\Debug\net6.0\TesteDeMesa2_ex1.dll
+C:\Users\User\Desktop\TesteDeMesaPt2\TesteDeMesa2_ex1\TesteDeMesa2_ex1\bin\Debug\net6.0\TesteDeMesa2_ex1.pdb
+C:\Users\User\Desktop\TesteDeMesaPt2\TesteDeMesa2_ex1\TesteDeMesa2_ex1\obj\Debug\net6.0\TesteDeMesa2_ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TesteDeMesaPt2\TesteDeMesa2_ex1\TesteDeMesa2_ex1\obj\Debug\net6.0\TesteDeMesa2_ex1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TesteDeMesaPt2\TesteDeMesa2_ex1\TesteDeMesa2_ex1\obj\Debug\net6.0\TesteDeMesa2_ex1.AssemblyInfo.cs
+C:\Users\User\Desktop\TesteDeMesaPt2\TesteDeMesa2_ex1\TesteDeMesa2_ex1\obj\Debug\net6.0\TesteDeMesa2_ex1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TesteDeMesaPt2\TesteDeMesa2_ex1\TesteDeMesa2_ex1\obj\Debug\net6.0\TesteDeMesa2_ex1.dll
+C:\Users\User\Desktop\TesteDeMesaPt2\TesteDeMesa2_ex1\TesteDeMesa2_ex1\obj\Debug\net6.0\refint\TesteDeMesa2_ex1.dll
+C:\Users\User\Desktop\TesteDeMesaPt2\TesteDeMesa2_ex1\TesteDeMesa2_ex1\obj\Debug\net6.0\TesteDeMesa2_ex1.pdb
+C:\Users\User\Desktop\TesteDeMesaPt2\TesteDeMesa2_ex1\TesteDeMesa2_ex1\obj\Debug\net6.0\TesteDeMesa2_ex1.genruntimeconfig.cache
+C:\Users\User\Desktop\TesteDeMesaPt2\TesteDeMesa2_ex1\TesteDeMesa2_ex1\obj\Debug\net6.0\ref\TesteDeMesa2_ex1.dll
